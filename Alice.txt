@@ -1,4 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-This change has been made in the branch change_alice.
-This is a example of rebasing.
-This change has been made by another development enviorment.
+Esto es un cambio que ha sido hecho en el Branch alice_change
